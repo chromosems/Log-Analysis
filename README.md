@@ -67,7 +67,8 @@ The attacker attempted a number of different SQL injection attacks. Based on oth
 - based on the URL, the sql command seems to be selecting from Users table which indicates the begining of a succeaful attack because the last command shows the a user name identified
 - <img width="851" height="70" alt="image" src="https://github.com/user-attachments/assets/1a4f38cb-92f5-4ede-b6ed-7c257234d057" />
 
-
+# Conclusion
+Analyzing the provided log file allowed me to successfully identify anomalies, including a SQL injection attack, demonstrating the effectiveness of command-line log analysis for detecting security threats.
 
 
 
